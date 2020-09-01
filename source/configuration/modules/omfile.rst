@@ -81,7 +81,7 @@ DirCreateMode
    :widths: auto
    :class: parameter-table
 
-   "FileCreateMode", "0700", "no", "``$DirCreateMode``"
+   "DirCreateMode", "0700", "no", "``$DirCreateMode``"
 
 Sets the default dirCreateMode to be used for an action if no
 explicit one is specified.
